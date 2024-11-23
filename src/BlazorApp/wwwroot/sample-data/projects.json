@@ -1,22 +1,22 @@
 [
   {
-    "title": "10 Things To Know About Azure Static Web Apps 🎉",
-    "description": "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+    "title": "Credit Card Default Prediction Using XG-boost in SageMaker 🎉",
+    "description": "The assignment was done for the Machine Learning certification course at Udemy and uploaded to github page. It was designed and trained on AWS infrastructure to predict whether a client will default on credit card payment or not.",
+    "url": "https://github.com/JohnsonAnin/XGBoost_SageMaker"
   },
   {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
+    "title": "New Data for electricity theft cyber attack in distributed generation 🎉",
+    "description": "Data development for a conference paper on Data-Driven Detection of Data Falsification Cyber-Attacks in Distributed Generation. It was presented at the IEEE Middle East Conference on Communications and Networking 2024.",
+    "url": "https://github.com/JohnsonAnin/Dataset_Generation_Metering_System"
   },
   {
-    "title": "My Resume Site",
-    "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+    "title": "Electricty theft detection model for power consumption data analysis 🎉",
+    "description": "Designed this framework for my journal paper on Efficient and Privacy-Preserving ConvLSTM-based Detection of Electricity Theft Cyber-Attacks in Smart Grids. Accepted and published on October 2024.",
+    "url": "https://github.com/JohnsonAnin/ElectricityTheftDetection"
   },
   {
-    "title": "GitHub Codespaces and github.dev",
-    "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
+    "title": "Graduate Capstone Assessment on Game store project",
+    "description": "Designed and documented the REST API and implemented the controller, service layer, DAO, Java data objects, and OAuth Security to secure access to the API.",
+    "url": "https://github.com/JohnsonAnin/Group-3-gamestoreproject/tree/main/AdvancedJavaCapstoneProject-master"
   }
 ]

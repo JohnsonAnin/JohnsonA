@@ -1,12 +1,13 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+ "description": "Johnson Anin is currently an AI Expert Contributor at Snorkel AI. His work focuses on data development and evaluating advanced AI models like ChatGPT to expose their gaps and limitations. Before joining Snorkel, he obtained his Ph.D. in Electrical Engineering from The University of Alabama  in Tuscaloosa, Alabama, USA, specializing in artificial intelligence and privacy analysis techniques for detecting electricity theft cyber-attacks. He developed a privacy preserving electricity theft detection model to facilitate the application of convolutional neural networks (CNN) and long short-term memory (LSTM) in learning complex relationships for classification tasks. He has leveraged his knowledge and skills in AI by assisting undergraduate students to design machine learning frameworks and has worked with technology companies, including GE Digital Inc",
+  "researchInterests": "His current research interests broadly cover large language models, artificial intelligence, machine learning (ML), security and privacy.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Machine learning framworks design",
+    "Exploratory Data Analysis",
+    "Data visualization",
+    "Data development",
+    "Security and privacy",
+    "Data Annotation"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I am passionate about finding new methods for data analysis to drive innovation. By using my experience in AI and machine learning, I constantly seek ways to make technology accessible to everyone."
 }
