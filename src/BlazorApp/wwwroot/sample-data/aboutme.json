@@ -1,13 +1,15 @@
 {
- "description": "Johnson Anin is currently an AI Expert Contributor at Snorkel AI. His work focuses on data development and evaluating advanced AI models like ChatGPT to expose their gaps and limitations. Before joining Snorkel, he obtained his Ph.D. in Electrical Engineering from The University of Alabama  in Tuscaloosa, Alabama, USA, specializing in artificial intelligence and privacy analysis techniques for detecting electricity theft cyber-attacks. He developed a privacy preserving electricity theft detection model to facilitate the application of convolutional neural networks (CNN) and long short-term memory (LSTM) in learning complex relationships for classification tasks. He has leveraged his knowledge and skills in AI by assisting undergraduate students to design machine learning frameworks and has worked with technology companies, including GE Digital Inc",
-  "researchInterests": "His current research interests broadly cover large language models, artificial intelligence, machine learning (ML), security and privacy.",
+ "description": "Johnson Anin is a U.S Navy veteran and a Machine Learning Engineer with a Ph.D. in Electrical Engineering. He recently completed about five months of intensive training at the Navy Recruit Command, where he gained valuable skills in leadership, discipline, commitment, and teamwork, qualities he now carries into his professional life. Over the past several years, Anin has contributed to impactful projects in both academic and industry settings, including developing LLM evaluation frameworks at Snorkel AI, building cyber-attack detection systems for smart grids during his doctoral research, and deploying scalable ML pipelines using AWS SageMaker and EC2. His strong foundation in artificial intelligence, deep learning, and data-driven system design has led him to publish several peer-reviewed papers in IEEE Access and presentations at major conferences. One of his most impactful industry contributions was at GE Digital, where he developed customized energy management system products and services for GE customers. He coded in C# programming language to implement customer recommendations that significantly enhanced application performance. Anin’s technical skills span Python, C#, TensorFlow, PyTorch, and cloud infrastructure tools like AWS and GCP. His core qualities include reliability, organization, innovation, critical thinking, and problem-solving skills. Looking ahead, Anin plans to expand his expertise deeply into machine learning, large language models, natural language processing, and computer vision to enhance his capacity to address multifaceted challenges in AI.",
   "skills": [
-    "Machine learning framworks design",
+    "Machine/Deep learning framworks design",
+    "Security and privacy",
+    "Cybersecurity",
+    "Smart grids",
     "Exploratory Data Analysis",
     "Data visualization",
-    "Data development",
-    "Security and privacy",
-    "Data Annotation"
+    "Data development"
+    
+    
   ],
-  "detailOrQuote": "I am passionate about finding new methods for data analysis to drive innovation. By using my experience in AI and machine learning, I constantly seek ways to make technology accessible to everyone."
+  "detailOrQuote": "If it does not challenge you, it will not change you. Fred DeVito"
 }
