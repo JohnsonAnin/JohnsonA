@@ -68,10 +68,17 @@ jobs:
       run: |
         dotnet publish src/BlazorApp -c Release -o published
 
-    - name: Upload artifact for web
-      uses: actions/upload-pages-artifact@v1
+    # - name: Upload artifact for web
+    #   uses: actions/upload-pages-artifact@v2
+    #   with:
+    #     path: published/wwwroot
+
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
       with:
+        name: github-pages
         path: published/wwwroot
+
 
   deploy:
     name: Deploy App to GitHub Pages
