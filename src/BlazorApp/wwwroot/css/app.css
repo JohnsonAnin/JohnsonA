@@ -49,8 +49,8 @@ section.light {
   object-fit: cover;
 } */
 section img.background {
-  width: 300px;     /* set width to 800 pixels */
-  height: 500px;    /* set height to 400 pixels */
+  width: 100vmax;     /* set width to 800 pixels */
+  height: 170%;    /* set height to 400 pixels */
   z-index: -1;
   position: absolute;
   top: 0;
