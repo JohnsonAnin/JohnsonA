@@ -37,9 +37,20 @@ section.light {
   padding: 8rem 0;
 }
 
-section img.background {
+/* section img.background {
   width: 100vmax;
-  height: 90%;
+  height: 50%;
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0);
+  pointer-events: none;
+  object-fit: cover;
+} */
+section img.background {
+  width: 100%;     /* set width to 800 pixels */
+  height: auto;    /* set height to 400 pixels */
   z-index: -1;
   position: absolute;
   top: 0;
@@ -48,6 +59,7 @@ section img.background {
   pointer-events: none;
   object-fit: cover;
 }
+
 
 h1 {
   font-weight: 300;
