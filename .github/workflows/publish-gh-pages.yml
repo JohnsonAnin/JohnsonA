@@ -68,16 +68,16 @@ jobs:
       run: |
         dotnet publish src/BlazorApp -c Release -o published
 
-    # - name: Upload artifact for web
-    #   uses: actions/upload-pages-artifact@v2
-    #   with:
-    #     path: published/wwwroot
-
-    - name: Upload artifact
-      uses: actions/upload-artifact@v4
+    - name: Upload artifact for web
+      uses: actions/upload-pages-artifact@v3
       with:
-        name: github-pages
         path: published/wwwroot
+
+    # - name: Upload artifact
+    #   uses: actions/upload-artifact@v4
+    #   with:
+    #     name: github-pages
+    #     path: published/wwwroot
 
 
   deploy:
@@ -89,9 +89,17 @@ jobs:
 
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: https://johnsonanin.github.io/JohnsonA/
+      # url: ${{ steps.deployment.outputs.page_url }}
+
+    # steps:
+    # - name: Deploy to GitHub Pages
+    #   id: deployment
+    #   uses: actions/deploy-pages@v1
 
     steps:
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v1
+      uses: actions/deploy-pages@v4
+      
+
