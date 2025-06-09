@@ -89,8 +89,8 @@ jobs:
 
     environment:
       name: github-pages
-      url: https://johnsonanin.github.io/JohnsonA/
-      # url: ${{ steps.deployment.outputs.page_url }}
+      # url: https://johnsonanin.github.io/JohnsonA/
+      url: ${{ steps.deployment.outputs.page_url }}
 
     # steps:
     # - name: Deploy to GitHub Pages
